@@ -1,4 +1,4 @@
 Brainfuck interpreter in C
 
-compile: make
-run: ./brainfuck helloworld.bf
+1. compile: make
+2. run: ./brainfuck helloworld.bf
